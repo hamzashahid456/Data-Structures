@@ -1,4 +1,4 @@
-// 20P-0484 Muhammad Faizan
+
 
 #include<iostream>
 using namespace std;
